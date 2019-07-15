@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Jeremy Ancheta"
 title_separator          : "-"
 name                     : "Jeremy Ancheta"
-description              : "Data Science Portfolio"
+description              : "Data Science, Analytics Portfolio"
 url                      : "https://jcancheta92.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Jeremy Ancheta"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "Data Science, Analytics Portfolio"
   location         : "Santa Clara, CA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:jcancheta92@gmail.com
+        url: mailto:jcancheta92@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/jcancheta92"
+        url: "https://github.com/jcancheta92"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
