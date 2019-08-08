@@ -310,3 +310,8 @@ defaults:
       layout: single
       author_profile: false
       share: true
+
+# Collections
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
