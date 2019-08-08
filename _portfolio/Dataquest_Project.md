@@ -1,6 +1,6 @@
 ---
 title: "Dataquest Projects"
-excerpt: "A collection of"
+excerpt: "A collection of projects I have done throughout the Dataquest Course"
 header:
   image: images\projects\dataquest.png
   teaser: images\projects\dataquest.png
