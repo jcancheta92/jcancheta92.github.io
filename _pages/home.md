@@ -2,7 +2,10 @@
 layout: splash
 permalink: /
 header:
+  overlay_color: "#5e616c"
   overlay_image: /images/projects/home.jpeg
-excerpt:
-  A collection of personal projects data science, analytics on topics that I find interesting
+  actions:
+    - label: "<i class='fas fa-download'></i> Install now"
+      url: "/docs/quick-start-guide/"
+excerpt: A collection of personal projects on data science analytics around topics that I find interest.
 ---
