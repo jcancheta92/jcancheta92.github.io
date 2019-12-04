@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Jeremy Ancheta"
 title_separator          : "-"
 name                     : "Jeremy Ancheta"
-description              : "Data Science, Analytics Portfolio"
+description              : "Data Science and Analytics Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Jeremy Ancheta"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science, Analytics Portfolio"
+  bio              : "Data Science and Analytics Portfolio"
   location         : "Santa Clara, CA"
   email            :
   links:
