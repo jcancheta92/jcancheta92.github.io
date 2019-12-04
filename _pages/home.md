@@ -7,5 +7,5 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
-excerpt: A collection of personal projects on data science analytics around topics that I find interest.
+excerpt: A collection of personal projects on data science and analytics around topics that I find interesting.
 ---
