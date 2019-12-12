@@ -39,3 +39,34 @@ This will be a collection of all the projects I have completed from the Data Sci
 - [Star Wars Survey](https://github.com/jcancheta92/Dataquest-Projects/blob/master/8_Star%20Wars%20Survey.ipynb)
 
    Cleaning and Analyzing Star Wars Survey data collected by FiveThirtyEight. Quick analysis to see which Star Wars movie was more popular and how each gender rated it differently.
+   ____
+   * [Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/jcancheta92/Dataquest-Projects/blob/master/11_Analyzing%20CIA%20Factbook%20Data.ipynb)
+
+      Applying the fundamentals of SQL and Python to analyze the CIA Factbook Data
+   ____
+   * [Answering Business Questions using SQL](https://github.com/jcancheta92/Dataquest-Projects/blob/master/12_Answering%20Business%20Questions%20using%20SQL.ipynb)
+
+      A continuation of applying SQL fundamentals and Python to answer some business questions.
+   ____
+   * [Designing and Creating a Database](https://github.com/jcancheta92/Dataquest-Projects/blob/master/13_Designing%20and%20Creating%20a%20Database.ipynb)
+
+      Learning to design and create a database.
+   ____
+   * [Investigating Fandango Movie Ratings](https://github.com/jcancheta92/Dataquest-Projects/blob/master/14_Investigating%20Fandango%20Movie%20Ratings.ipynb)
+
+      In October 2015, a data journalist named Walk Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest. Fandango later responded saying that the rounding was a bug in their system.
+
+       With this project, we want to investigate whether Fandango is still rounding up their reviews or if they did in fact fix the bug.
+   ____
+   * [Finding the Best Markets to Advertise In](https://github.com/jcancheta92/Dataquest-Projects/blob/master/15_Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)
+
+       In this project, we are assuming that we are working for an e-learning company that offers courses on programming. Most of our  courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and we'd like to invest some money in advertisement. The goal of this project is to find out two best markets to advertise our product in.
+   ____
+   * [Winning Jeopardy](https://github.com/jcancheta92/Dataquest-Projects/blob/master/16_Winning%20Jeopardy.ipynb)
+       In this project, we are work with a dataset of Jeopardy questions to figure out some patterns in the questions that could help us win Jeopardy
+
+   ____
+   * [Mobile app for Lottery Addiction](https://github.com/jcancheta92/Dataquest-Projects/blob/master/17_Mobile%20App%20for%20Lottery%20Addiction.ipynb)
+
+      For this guided project, we will be playing with the idea of making an app that aims to prevent and treat gambling addictions. This app will help lottery addicts better estimate their chances of winning.
+   ____
